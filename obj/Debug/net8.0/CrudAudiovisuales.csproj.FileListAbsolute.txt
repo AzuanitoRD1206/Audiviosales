@@ -285,3 +285,4 @@ d:\CrudAudiovisuales\bin\Debug\net8.0\EPPlus.dll
 d:\CrudAudiovisuales\bin\Debug\net8.0\EPPlus.Interfaces.dll
 d:\CrudAudiovisuales\bin\Debug\net8.0\EPPlus.System.Drawing.dll
 d:\CrudAudiovisuales\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\CrudAudiovisuales\obj\Debug\net8.0\CrudAudiovisuales.sourcelink.json

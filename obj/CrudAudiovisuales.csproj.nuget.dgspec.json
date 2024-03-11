@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\CrudAudiovisuales\\CrudAudiovisuales.csproj": {}
+    "D:\\CrudAudiovisuales\\CrudAudiovisuales.csproj": {}
   },
   "projects": {
-    "d:\\CrudAudiovisuales\\CrudAudiovisuales.csproj": {
+    "D:\\CrudAudiovisuales\\CrudAudiovisuales.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\CrudAudiovisuales\\CrudAudiovisuales.csproj",
+        "projectUniqueName": "D:\\CrudAudiovisuales\\CrudAudiovisuales.csproj",
         "projectName": "CrudAudiovisuales",
-        "projectPath": "d:\\CrudAudiovisuales\\CrudAudiovisuales.csproj",
+        "projectPath": "D:\\CrudAudiovisuales\\CrudAudiovisuales.csproj",
         "packagesPath": "C:\\Users\\sabri\\.nuget\\packages\\",
-        "outputPath": "d:\\CrudAudiovisuales\\obj\\",
+        "outputPath": "D:\\CrudAudiovisuales\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sabri\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -114,7 +114,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

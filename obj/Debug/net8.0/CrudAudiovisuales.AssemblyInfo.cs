@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CrudAudiovisuales")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f65c0a0e34a475e0ab52d0c8474f67408349fe9")]
 [assembly: System.Reflection.AssemblyProductAttribute("CrudAudiovisuales")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CrudAudiovisuales")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

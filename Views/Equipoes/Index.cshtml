@@ -55,18 +55,18 @@
                 @Html.DisplayFor(modelItem => item.Estado)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Marca.Id)
+                @Html.DisplayFor(modelItem => item.Marca.Descripcion)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Modelo.Id)
+                @Html.DisplayFor(modelItem => item.Modelo.Descripcion)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.TipoEquipo.Id)
+                @Html.DisplayFor(modelItem => item.TipoEquipo.Descripcion)
             </td>
             <td>
                 @if (item.TipoTecnologiaConexion != null)
                 {
-                    @Html.DisplayFor(modelItem => item.TipoTecnologiaConexion.Id)
+                    @Html.DisplayFor(modelItem => item.TipoTecnologiaConexion.Descripcion)
                 }
             </td>
             <td>

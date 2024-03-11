@@ -52,13 +52,13 @@
                 @Html.DisplayFor(modelItem => item.Estado)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Empleado.Id)
+                @Html.DisplayFor(modelItem => item.Empleado.Nombre)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Equipo.Id)
+                @Html.DisplayFor(modelItem => item.Equipo.Descripcion)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Usuario.Id)
+                @Html.DisplayFor(modelItem => item.Usuario.Nombre)
             </td>
             <td>
                     <a asp-action="Edit" asp-route-id="@item.NoPrestamo" class="btn btn-danger">Edit</a> |

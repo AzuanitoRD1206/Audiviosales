@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DAunC7UDAwA9KUtKYqCYd1GS6qX5x2dJJQ27syxcwUbLuRe76feEoc/MleYMxSSjujtomZbb338fapyBAPUK0Q==",
+  "dgSpecHash": "/UAYkpg0BLOfilfICO6mk7ycdlZ8eGh69MSeh2/2y0pPqFb8wj+QquyUYHdj34t/NuRKBntOvBBclK7W8hwQig==",
   "success": true,
-  "projectFilePath": "d:\\CrudAudiovisuales\\CrudAudiovisuales.csproj",
+  "projectFilePath": "D:\\CrudAudiovisuales\\CrudAudiovisuales.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sabri\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\sabri\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
