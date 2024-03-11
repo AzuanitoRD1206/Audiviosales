@@ -8,5 +8,4 @@ services:
       MYSQL_ROOT_PASSWORD: Yadiel1206@
       MYSQL_ROOT_HOST: '172.18.0.1'
     ports:
-      - "3306:3306"
-  
+      - "3307:3306"  # Change the host port to 3307 or any other available port
